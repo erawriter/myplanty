@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myplanty/static/css/main.1b978d03.css",
+    "main.js": "/myplanty/static/js/main.e74a97ca.js",
+    "static/js/787.b38ae16e.chunk.js": "/myplanty/static/js/787.b38ae16e.chunk.js",
+    "static/media/Images-3.png": "/myplanty/static/media/Images-3.29772da6efd311ab8c70.png",
+    "static/media/Images-6.png": "/myplanty/static/media/Images-6.566c8739f6b8b59e0d75.png",
+    "static/media/Images-5.png": "/myplanty/static/media/Images-5.821ac6aa2857bd2c546d.png",
+    "static/media/Images-2.png": "/myplanty/static/media/Images-2.48030cda2254d6b73b27.png",
+    "static/media/Images-4.png": "/myplanty/static/media/Images-4.fc1720e85aba344ae38e.png",
+    "static/media/Images-8.png": "/myplanty/static/media/Images-8.49c4425f3436ae2e3817.png",
+    "static/media/Images-1.jpg": "/myplanty/static/media/Images-1.cfe0a84e78ad9bb6a244.jpg",
+    "static/media/Images-7.jpg": "/myplanty/static/media/Images-7.9468e5c4a7d2c9bd2ebb.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myplanty/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/myplanty/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myplanty/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myplanty/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myplanty/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo-7.png": "/myplanty/static/media/logo-7.d293ac595927ff8d2393.png",
+    "index.html": "/myplanty/index.html",
+    "main.1b978d03.css.map": "/myplanty/static/css/main.1b978d03.css.map",
+    "main.e74a97ca.js.map": "/myplanty/static/js/main.e74a97ca.js.map",
+    "787.b38ae16e.chunk.js.map": "/myplanty/static/js/787.b38ae16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b978d03.css",
+    "static/js/main.e74a97ca.js"
+  ]
+}
