@@ -1,45 +1,38 @@
 {
-  "homepage": "http://erawriter.github.io/myplanty/",
   "name": "planty-react",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.2.0",
-    "@fortawesome/react-fontawesome": "^0.2.0",
-    "@react-google-maps/api": "^2.13.1",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "bootstrap": "^5.2.2",
-    "font-awesome": "^4.7.0",
-    "google-map-react": "^2.2.0",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.5.0",
-    "react-bootstrap-validation": "^0.1.11",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.6.0",
-    "react-iframe": "^1.8.5",
-    "react-jsx": "^1.0.0",
-    "react-router-dom": "^6.4.1",
-    "react-scripts": "5.0.1",
-    "reactstrap": "^9.1.4",
-    "save": "^2.9.0",
-    "styled-components": "^5.3.6",
-    "web-vitals": "^2.1.4"
-  },
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build", 
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "author": "Era Writer",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://localhost:3000/"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.2.3",
+    "font-awesome": "^4.7.0",
+    "npm": "^9.6.3",
+    "popper.js": "^1.16.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "react-iframe": "^1.8.5",
+    "react-popper": "^2.3.0",
+    "react-router": "^6.10.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^5.0.1",
+    "reactstrap": "^9.1.8",
+    "styled-components": "^5.3.9",
+    "web-vitals": "^3.3.0"
   },
   "browserslist": {
     "production": [
@@ -52,8 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
